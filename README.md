@@ -34,6 +34,6 @@ Agustin monsalvo-Julian Conti
    {
   "oferta": 1
  }
-  - En la tabla oferta 1 significa que el auto esta en oferta y 0 significa que no.
+  - En la columna oferta 1 significa que el auto esta en oferta y 0 significa que no.
 
 
